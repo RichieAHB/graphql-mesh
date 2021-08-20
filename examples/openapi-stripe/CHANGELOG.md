@@ -1,5 +1,12 @@
 # openapi-stripe
 
+## 0.5.129
+
+### Patch Changes
+
+- @graphql-mesh/cli@0.35.2
+- @graphql-mesh/openapi@0.18.10
+
 ## 0.5.128
 
 ### Patch Changes

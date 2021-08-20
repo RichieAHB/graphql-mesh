@@ -1,5 +1,11 @@
 # @graphql-mesh/types
 
+## 0.46.0
+
+### Minor Changes
+
+- 06d688e70: feat(config): new skipSSLValidation configuration field that disabled SSL check on HTTP requests
+
 ## 0.45.2
 
 ### Patch Changes
